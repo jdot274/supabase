@@ -19,7 +19,7 @@
   "author": "Supabase, Inc.",
   "license": "MIT",
   "devDependencies": {
-    "@faker-js/faker": "^6.1.2",
+    "@faker-js/faker": "^10.5.0",
     "@supabase/supabase-js": "^2.44.3",
     "@testdeck/jest": "^0.3.3",
     "@types/jest": "^29.5.4",
