@@ -41,7 +41,7 @@
     "tsconfig": "workspace:*",
     "ui": "workspace:*",
     "valtio": "*",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@supabase/auth-helpers-react": "^0.4.2",
